@@ -13,4 +13,12 @@ object fmPrincipal: TfmPrincipal
   OldCreateOrder = False
   PixelsPerInch = 96
   TextHeight = 13
+  object Button1: TButton
+    Left = 272
+    Top = 136
+    Width = 75
+    Height = 25
+    Caption = 'HelloGit'
+    TabOrder = 0
+  end
 end
